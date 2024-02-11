@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.field {
+    border: 1px solid rgb(185, 185, 185);
+    width: 28%;
+    padding: 12px;
+    margin: 12px;
+
+    div {
+        margin-bottom: 8px;
+    }
+}
+
+.name {
+    display: flex;
+    flex-direction: row;
+
+    .form-name {
+        font-weight: 600;
+        font-size: 16px;
+    }
+}
+
+.form-star {
+    font-size: 12px;
+}
