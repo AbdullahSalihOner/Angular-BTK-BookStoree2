@@ -1,1 +1,3 @@
-<app-book-card-list [bookList]="books" ></app-book-card-list>
+<app-navbar [categories]="categories" (categoryName)="setBooksForCategories($event)" > </app-navbar>
+
+<app-book-card-list [bookList]="filteredBooks" ></app-book-card-list>

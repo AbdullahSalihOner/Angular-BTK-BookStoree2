@@ -4,7 +4,7 @@ export const BooksData = [
         "author": "F. Scott Fitzgerald",
         "year": "1925",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "History",
         "star": "4.2",
         "id": "1"
     },
@@ -13,7 +13,7 @@ export const BooksData = [
         "author": "Harper Lee",
         "year": "1960",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "History",
         "star": "4.5",
         "id": "2"
     },
@@ -22,7 +22,7 @@ export const BooksData = [
         "author": "George Orwell",
         "year": "1949",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "History",
         "star": "4.7",
         "id": "3"
     },
@@ -31,7 +31,7 @@ export const BooksData = [
         "author": "Jane Austen",
         "year": "1813",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "History",
         "star": "4.4",
         "id": "4"
     },
@@ -40,7 +40,7 @@ export const BooksData = [
         "author": "J.D. Salinger",
         "year": "1951",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Biography",
         "star": "4.1",
         "id": "5"
     },
@@ -49,7 +49,7 @@ export const BooksData = [
         "author": "Harper Lee",
         "year": "1960",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Biography",
         "star": "4.5",
         "id": "6"
     },
@@ -58,7 +58,7 @@ export const BooksData = [
         "author": "J.R.R. Tolkien",
         "year": "1937",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Biography",
         "star": "4.8",
         "id": "7"
     },
@@ -67,7 +67,7 @@ export const BooksData = [
         "author": "J.R.R. Tolkien",
         "year": "1954",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.9",
         "id": "8"
     },
@@ -76,7 +76,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "1997",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.7",
         "id": "9"
     },
@@ -85,7 +85,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "1998",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.6",
         "id": "10"
     },
@@ -94,7 +94,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "1999",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.8",
         "id": "11"
     },
@@ -103,7 +103,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "2000",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.9",
         "id": "12"
     },
@@ -112,7 +112,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "2003",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.6",
         "id": "13"
     },
@@ -121,7 +121,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "2005",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.7",
         "id": "14"
     },
@@ -130,7 +130,7 @@ export const BooksData = [
         "author": "J.K. Rowling",
         "year": "2007",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.8",
         "id": "15"
     },
@@ -139,7 +139,7 @@ export const BooksData = [
         "author": "Dan Brown",
         "year": "2003",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.3",
         "id": "16"
     },
@@ -148,7 +148,7 @@ export const BooksData = [
         "author": "Dan Brown",
         "year": "2000",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Fantastic",
         "star": "4.2",
         "id": "17"
     },
@@ -157,7 +157,7 @@ export const BooksData = [
         "author": "Paulo Coelho",
         "year": "1988",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.5",
         "id": "18"
     },
@@ -166,7 +166,7 @@ export const BooksData = [
         "author": "Paula Hawkins",
         "year": "2015",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.1",
         "id": "19"
     },
@@ -175,7 +175,7 @@ export const BooksData = [
         "author": "Gillian Flynn",
         "year": "2012",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.2",
         "id": "20"
     },
@@ -184,7 +184,7 @@ export const BooksData = [
         "author": "Kathryn Stockett",
         "year": "2009",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.5",
         "id": "21"
     },
@@ -193,7 +193,7 @@ export const BooksData = [
         "author": "John Green",
         "year": "2012",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.6",
         "id": "22"
     },
@@ -202,7 +202,7 @@ export const BooksData = [
         "author": "James Dashner",
         "year": "2009",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Horror",
         "star": "4.0",
         "id": "23"
     },
@@ -211,7 +211,7 @@ export const BooksData = [
         "author": "Suzanne Collins",
         "year": "2008",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.3",
         "id": "24"
     },
@@ -220,7 +220,7 @@ export const BooksData = [
         "author": "Suzanne Collins",
         "year": "2009",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.4",
         "id": "25"
     },
@@ -229,7 +229,7 @@ export const BooksData = [
         "author": "Suzanne Collins",
         "year": "2010",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.3",
         "id": "26"
     },
@@ -238,7 +238,7 @@ export const BooksData = [
         "author": "Veronica Roth",
         "year": "2011",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.1",
         "id": "27"
     },
@@ -247,7 +247,7 @@ export const BooksData = [
         "author": "Veronica Roth",
         "year": "2012",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.2",
         "id": "28"
     },
@@ -256,16 +256,16 @@ export const BooksData = [
         "author": "Veronica Roth",
         "year": "2013",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Comedy",
         "star": "4.0",
         "id": "29"
     },
     {
-        "name": "The Chronicles of Narnia",
+        "name": "Salih'in Maceraları",
         "author": "C.S. Lewis",
         "year": "1950",
         "image": "image_url",
-        "category": "Fiction",
+        "category": "Romantic",
         "star": "4.6",
         "id": "30"
     }
